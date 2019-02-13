@@ -1,19 +1,18 @@
 ## HTML
 ### Structure of a website
 > Browser -> Inspect Elements
-* <!Doctype html>
-* <html>
-* <head>
-* <meta - this is configurations for the browser ( charset, viewport )
-* <title
-* <script
-* <link - link to external resources. In Example stylesheet 
-* <style
-* </head>
-* <body: h1, div, a, strong, br, em, small
-* </body>
-* </body>
-* </html>
+* ```<!Doctype html>```
+* ```<html>```
+* ```<head>```
+* ```<meta - this is configurations for the browser ( charset, viewport )```
+* ```<title```
+* ```<script```
+* ```<link - link to external resources. In Example stylesheet ```
+* ```<style```
+* ```</head>```
+* ```<body: h1, div, a, strong, br, em, small```
+*``` </body>```
+* ```</html>```
 
 ### First Website
 > Text editor  VsCode. Extensions: HtML Snippet, HTML CSS support, Intelly sense
